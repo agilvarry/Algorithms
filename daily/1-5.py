@@ -1,11 +1,14 @@
-def knapsack():
+def knapsack(S, T):
     """
-    knapsack([1,2,5,9,10], 22)
-    a) [10, 9, 5, 2, 1]
-    b) [1,2,5,9,10]
-    c) [10, 9, 5, 2, 1]
+    Counter Examples
+    a) Put the elements of S in the knapsack in left to right order if they fit, i.e. the first-fit algorithm.
+    a) [4, 3, 2], 5 
+    (b) Put the elements of S in the knapsack from smallest to largest, i.e. the best-fit algorithm.
+    b) [2,3], 3
+    (c) Put the elements of S in the knapsack from largest to smallest.
+    c) [5,4,3] 7
     """
-    return
+    return S, T
 
 if __name__ == "__main__":
-    knapsack()
+    knapsack([1,2,5,9,10], 22)
