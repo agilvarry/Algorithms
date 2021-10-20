@@ -5,8 +5,6 @@ def knapsack():
     b) [1,2,5,9,10]
     c) [10, 9, 5, 2, 1]
     """
-    print("hi")
-    
     return
 
 if __name__ == "__main__":
