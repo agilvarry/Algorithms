@@ -1,10 +1,10 @@
 """True/False?"""
 """
 (a) T
-(b) T
+(b) F
 (c) T
 (d) F
 (e) T
-(f) F
-(g) T
+(f) T
+(g) F
 """

@@ -1,7 +1,7 @@
 """see book
 
-(a) Yes. 
+(a) NO
 (b) Yes.
-(c) No.
-(d) No.
+(c) YES.
+(d) YES.
 """
