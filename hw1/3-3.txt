@@ -1,0 +1,12 @@
+"""Reverse a singly linked list in linear time"""
+
+list = [item, next]
+
+first,this = list
+while this->item is not null:
+    next = this->next
+    next->next = this
+    this = next
+
+first->next = null    
+
