@@ -1,0 +1,4 @@
+smallest k integers
+
+sort the list
+pull the first k integers for a result
