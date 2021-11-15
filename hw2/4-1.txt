@@ -1,0 +1,16 @@
+Unfairly divided team.
+
+Obvious answer to me is 
+
+sort(list).reverse()
+
+team1 = []
+
+while n>0:
+    player = list[0].pop(-1)
+    team1.append(player)
+    n-=1
+team2 = list
+
+this should group the best players together, and the worst players together.
+assumes even number of players
