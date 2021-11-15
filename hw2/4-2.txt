@@ -1,0 +1,31 @@
+a) maximize x-y in O(n) for unsorted list
+
+    if list[0] > list[1]:
+        x = list[0]
+        y = list[1]
+    else:
+        y = list[0]
+        x = list[1]
+
+    for i in range (2, len(list))
+        if i > x:
+            x = i
+        elif i < y:
+            y = i
+    return x-y
+
+b) maximize x-y in O(1) for sorted list
+    return list[len(list)-1] - list[0]  
+
+c) minimize x-y in O(n log n) for unsorted list
+    sort the list, then do d
+
+
+d) minimize x-y for sorted list O(n)
+    min = list[1] - list[0]
+
+    for i in range(2, len(list)):
+        cur = list[i] - list[i-1]
+        if  cur < min:
+            min = cur
+    return min
