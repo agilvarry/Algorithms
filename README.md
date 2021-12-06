@@ -1,4 +1,4 @@
 # Algorithms
 The Algorithm Design Manual
 
-https://www3.cs.stonybrook.edu/~skiena/373/
+https://www.algorist.com/
