@@ -1,3 +1,4 @@
+#https://leetcode.com/problems/maximum-subarray/
 class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
         #this starts by setting the current and best sum to the first item in the array
