@@ -9,7 +9,6 @@ class Solution:
         
         while low<high:
             middle = low+((high-low+1)//2)
-            print(low, high, middle)
             if not isBadVersion(middle) and isBadVersion(middle+1):
                 return middle+1
             elif isBadVersion(middle-1):
