@@ -6,6 +6,3 @@ https://leetcode.com/problems/letter-case-permutation/
 https://leetcode.com/problems/climbing-stairs/
 https://leetcode.com/problems/house-robber/
 https://leetcode.com/problems/triangle/
-
-https://leetcode.com/problems/reverse-bits/
-https://leetcode.com/problems/single-number/
