@@ -9,6 +9,3 @@ https://leetcode.com/problems/triangle/
 
 https://leetcode.com/problems/reverse-bits/
 https://leetcode.com/problems/single-number/
-
-DS
-https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
