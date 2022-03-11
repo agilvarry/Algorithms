@@ -1,5 +1,4 @@
 ALG
-https://leetcode.com/problems/combinations/
 https://leetcode.com/problems/permutations/
 https://leetcode.com/problems/letter-case-permutation/
 
