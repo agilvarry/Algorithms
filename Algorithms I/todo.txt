@@ -1,7 +1,3 @@
-ALG
-https://leetcode.com/problems/permutations/
-https://leetcode.com/problems/letter-case-permutation/
-
 https://leetcode.com/problems/climbing-stairs/
 https://leetcode.com/problems/house-robber/
 https://leetcode.com/problems/triangle/
