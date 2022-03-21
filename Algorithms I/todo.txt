@@ -1,5 +1,4 @@
-https://leetcode.com/problems/reverse-bits/
-https://leetcode.com/problems/single-number/
+dynamic programming
 https://leetcode.com/problems/climbing-stairs/
 https://leetcode.com/problems/house-robber/submissions/
 https://leetcode.com/problems/triangle/
