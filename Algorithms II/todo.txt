@@ -1,4 +1,7 @@
-Day 1 Binary Search
-https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
-https://leetcode.com/problems/search-in-rotated-sorted-array/
-https://leetcode.com/problems/search-a-2d-matrix/
+Day 2 Binary Search
+https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+https://leetcode.com/problems/find-peak-element/
+
+Day 3 Two Pointers
+https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/
+https://leetcode.com/problems/3sum/
