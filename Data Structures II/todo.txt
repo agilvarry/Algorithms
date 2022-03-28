@@ -1,7 +1,21 @@
-Day 2 Array
-https://leetcode.com/problems/design-hashmap/
-
 Day 3 Array
 https://leetcode.com/problems/pascals-triangle-ii/
 https://leetcode.com/problems/rotate-image/
 https://leetcode.com/problems/spiral-matrix-ii/
+
+Day 4 Array
+https://leetcode.com/problems/search-a-2d-matrix-ii/
+https://leetcode.com/problems/non-overlapping-intervals/
+
+Day 5 Array
+https://leetcode.com/problems/increasing-triplet-subsequence/
+https://leetcode.com/problems/product-of-array-except-self/
+https://leetcode.com/problems/subarray-sum-equals-k/
+
+Day 6 String
+https://leetcode.com/problems/add-strings/
+https://leetcode.com/problems/longest-palindrome/
+
+Day 7 String
+https://leetcode.com/problems/word-pattern/
+https://leetcode.com/problems/partition-labels/

@@ -5,3 +5,21 @@ https://leetcode.com/problems/find-peak-element/
 Day 3 Two Pointers
 https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/
 https://leetcode.com/problems/3sum/
+
+Day 4 Two Pointers
+https://leetcode.com/problems/backspace-string-compare/
+https://leetcode.com/problems/interval-list-intersections/
+https://leetcode.com/problems/container-with-most-water/
+
+Day 5 Sliding Window
+https://leetcode.com/problems/find-all-anagrams-in-a-string/
+https://leetcode.com/problems/subarray-product-less-than-k/
+https://leetcode.com/problems/minimum-size-subarray-sum/
+
+Day 6 BFS/DFS
+https://leetcode.com/problems/number-of-islands/
+https://leetcode.com/problems/number-of-provinces/
+
+Day 7 BFS/DFS
+https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/
+https://leetcode.com/problems/subtree-of-another-tree/
