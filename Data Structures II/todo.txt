@@ -27,3 +27,7 @@ https://leetcode.com/problems/multiply-strings/
 Day 9 String
 https://leetcode.com/problems/repeated-dna-sequences/
 https://leetcode.com/problems/longest-palindromic-substring/
+
+Day 10 Linked List
+https://leetcode.com/problems/add-two-numbers/
+https://leetcode.com/problems/linked-list-cycle-ii/
