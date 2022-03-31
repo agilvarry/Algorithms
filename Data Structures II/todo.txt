@@ -19,3 +19,11 @@ https://leetcode.com/problems/longest-palindrome/
 Day 7 String
 https://leetcode.com/problems/word-pattern/
 https://leetcode.com/problems/partition-labels/
+
+Day 8 String
+https://leetcode.com/problems/group-anagrams/
+https://leetcode.com/problems/multiply-strings/
+
+Day 9 String
+https://leetcode.com/problems/repeated-dna-sequences/
+https://leetcode.com/problems/longest-palindromic-substring/
