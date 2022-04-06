@@ -1,5 +1,4 @@
 Day 3 Array
-https://leetcode.com/problems/pascals-triangle-ii/
 https://leetcode.com/problems/rotate-image/
 https://leetcode.com/problems/spiral-matrix-ii/
 
@@ -31,3 +30,25 @@ https://leetcode.com/problems/longest-palindromic-substring/
 Day 10 Linked List
 https://leetcode.com/problems/add-two-numbers/
 https://leetcode.com/problems/linked-list-cycle-ii/
+
+Day 11 Linked List
+https://leetcode.com/problems/add-two-numbers/
+https://leetcode.com/problems/linked-list-cycle-ii/
+
+Day 12 Linked List
+https://leetcode.com/problems/swap-nodes-in-pairs/
+https://leetcode.com/problems/design-linked-list/
+
+Day 13
+https://leetcode.com/problems/reverse-nodes-in-k-group/
+https://leetcode.com/problems/reorder-list/
+
+Day 14 Stack / Queue
+https://leetcode.com/problems/min-stack/
+https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/
+https://leetcode.com/problems/find-the-winner-of-the-circular-game/
+
+Day 15 Tree
+https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
+https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
