@@ -1,6 +1,3 @@
-Day 3 Two Pointers
-https://leetcode.com/problems/3sum/
-
 Day 4 Two Pointers
 https://leetcode.com/problems/backspace-string-compare/
 https://leetcode.com/problems/interval-list-intersections/
@@ -53,3 +50,11 @@ https://leetcode.com/problems/arithmetic-slices/
 Day 15 Dynamic Programming
 https://leetcode.com/problems/decode-ways/
 https://leetcode.com/problems/word-break/
+
+Day 16 Dynamic Programming
+https://leetcode.com/problems/longest-increasing-subsequence/
+https://leetcode.com/problems/number-of-longest-increasing-subsequence/
+
+Day 17 Dynamic Programming
+https://leetcode.com/problems/longest-common-subsequence/
+https://leetcode.com/problems/delete-operation-for-two-strings/
